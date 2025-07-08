@@ -37,5 +37,5 @@ Predict house prices using linear regression and evaluate model performance.
 3. Run all cells
 
 ---
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hesam-AI/house-price-prediction/blob/main/house_price_prediction.ipynb)
 > Created by Hesam — AI/ML enthusiast exploring real-world regression models!
